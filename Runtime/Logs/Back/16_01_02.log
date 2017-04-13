@@ -1,0 +1,335 @@
+[ 2016-01-02T09:18:29+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=uwub
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002583s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001778s ]
+
+[ 2016-01-02T09:18:53+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003237s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0170s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0382s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001957s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002150s ]
+
+[ 2016-01-02T09:18:56+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=1&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002306s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0107s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_attribute` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `php41_attribute` WHERE `type_id` = 1  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001867s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002058s ]
+
+[ 2016-01-02T10:19:32+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002806s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0099s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0239s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002159s ]
+
+[ 2016-01-02T10:21:56+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003077s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0097s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0102s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002483s ]
+
+[ 2016-01-02T10:22:17+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002923s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0103s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0101s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001755s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001925s ]
+
+[ 2016-01-02T10:22:47+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002924s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0112s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0097s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001991s ]
+
+[ 2016-01-02T10:30:14+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002456s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0294s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0118s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0277s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0104s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001944s ]
+
+[ 2016-01-02T10:30:31+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003511s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0115s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0192s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0121s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002286s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002458s ]
+
+[ 2016-01-02T10:43:45+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=1&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003802s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0109s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `php41_attribute` [ RunTime:0.0321s ]
+SQL: SELECT * FROM `php41_attribute` WHERE `type_id` = 1  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002453s ]
+
+[ 2016-01-02T11:19:00+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=1&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002667s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0111s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0143s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001740s ]
+
+[ 2016-01-02T11:31:08+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=1&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002281s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0100s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0108s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.031547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.031719s ]
+
+[ 2016-01-02T12:14:49+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=1&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002586s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0118s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0141s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001789s ]
+
+[ 2016-01-02T12:14:54+08:00 ] 127.0.0.1 /index.php/Back/Goods/delPics.html?pics_id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002602s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0085s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE `id` = 31 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `php41_goods_pics` WHERE `id` = 31 [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002287s ]
+
+[ 2016-01-02T12:14:56+08:00 ] 127.0.0.1 /index.php/Back/Goods/delPics.html?pics_id=30
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002920s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0112s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE `id` = 30 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `php41_goods_pics` WHERE `id` = 30 [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002241s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002483s ]
+
+[ 2016-01-02T12:14:57+08:00 ] 127.0.0.1 /index.php/Back/Goods/delPics.html?pics_id=29
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002843s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0100s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE `id` = 29 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `php41_goods_pics` WHERE `id` = 29 [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002149s ]
+
+[ 2016-01-02T12:14:59+08:00 ] 127.0.0.1 /index.php/Back/Goods/delPics.html?pics_id=28
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002839s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0099s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE `id` = 28 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `php41_goods_pics` WHERE `id` = 28 [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002646s ]
+
+[ 2016-01-02T12:15:01+08:00 ] 127.0.0.1 /index.php/Back/Goods/delPics.html?pics_id=27
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002713s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0113s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE `id` = 27 LIMIT 1   [ RunTime:0.0006s ]
+SQL: DELETE FROM `php41_goods_pics` WHERE `id` = 27 [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002330s ]
+
+[ 2016-01-02T12:15:02+08:00 ] 127.0.0.1 /index.php/Back/Goods/delPics.html?pics_id=26
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002445s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0107s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE `id` = 26 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `php41_goods_pics` WHERE `id` = 26 [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002147s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002297s ]
+
+[ 2016-01-02T12:17:00+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=1&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007709s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0113s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0110s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001895s ]
+
+[ 2016-01-02T12:17:04+08:00 ] 127.0.0.1 /index.php/Back/Goods/delPics.html?pics_id=34
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003286s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0110s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE `id` = 34 LIMIT 1   [ RunTime:0.0005s ]
+SQL: DELETE FROM `php41_goods_pics` WHERE `id` = 34 [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002177s ]
+
+[ 2016-01-02T12:17:05+08:00 ] 127.0.0.1 /index.php/Back/Goods/delPics.html?pics_id=33
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002779s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0127s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE `id` = 33 LIMIT 1   [ RunTime:0.0008s ]
+SQL: DELETE FROM `php41_goods_pics` WHERE `id` = 33 [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002237s ]
+
+[ 2016-01-02T12:17:07+08:00 ] 127.0.0.1 /index.php/Back/Goods/delPics.html?pics_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003035s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0106s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_goods_pics` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `php41_goods_pics` WHERE `id` = 32 LIMIT 1   [ RunTime:0.0007s ]
+SQL: DELETE FROM `php41_goods_pics` WHERE `id` = 32 [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001886s ]
+
+[ 2016-01-02T12:27:51+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=1&goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002540s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0114s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0122s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '32'  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004758s ]
+
+[ 2016-01-02T14:42:48+08:00 ] 127.0.0.1 /index.php/Back/Goods/getAttributeByTypeUpd.html?type_id=0&goods_id=33
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004549s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0220s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `php41_goods` WHERE `goods_id` = 33 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_goods_attr` [ RunTime:0.0109s ]
+SQL: SELECT g.attr_id,g.attr_value,a.attr_name,a.attr_is_sel,a.attr_sel_opt FROM php41_goods_attr g INNER JOIN php41_attribute a on g.attr_id=a.attr_id  WHERE `goods_id` = '33'  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001906s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002081s ]
+

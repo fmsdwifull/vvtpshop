@@ -1,0 +1,602 @@
+[ 2016-01-04T09:21:24+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002786s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0108s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001939s ]
+
+[ 2016-01-04T09:21:35+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=19
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002533s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0109s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 19 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001805s ]
+
+[ 2016-01-04T09:24:23+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=26
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002970s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0114s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 26 LIMIT 1   [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002101s ]
+
+[ 2016-01-04T09:24:43+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002617s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0096s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 31 LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001456s ]
+
+[ 2016-01-04T09:25:30+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=23
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002404s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0106s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 23 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001126s ]
+
+[ 2016-01-04T09:28:45+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001245s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001410s ]
+
+[ 2016-01-04T09:28:46+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001753s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001345s ]
+
+[ 2016-01-04T09:28:47+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001703s ]
+
+[ 2016-01-04T09:28:47+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003882s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005070s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001616s ]
+
+[ 2016-01-04T09:28:51+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002705s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001176s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001457s ]
+
+[ 2016-01-04T09:31:24+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002640s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001659s ]
+
+[ 2016-01-04T09:31:24+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002384s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001529s ]
+
+[ 2016-01-04T09:31:25+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001542s ]
+
+[ 2016-01-04T09:33:49+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003202s ]
+
+[ 2016-01-04T09:33:50+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001729s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001710s ]
+
+[ 2016-01-04T09:33:51+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=12
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001754s ]
+
+[ 2016-01-04T09:33:54+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=13
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002608s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001249s ]
+
+[ 2016-01-04T09:33:55+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002884s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001676s ]
+
+[ 2016-01-04T09:33:56+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=15
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002533s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000945s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001134s ]
+
+[ 2016-01-04T09:33:56+08:00 ] 127.0.0.1 /index.php/Home/Shop/incrementNum.html?goods_id=19&after_num=16
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002955s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002268s ]
+
+[ 2016-01-04T09:41:47+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=15
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008702s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001773s ]
+
+[ 2016-01-04T09:41:50+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=15
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001649s ]
+
+[ 2016-01-04T09:42:55+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=14
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001153s ]
+
+[ 2016-01-04T09:42:56+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=13
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001839s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001168s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001336s ]
+
+[ 2016-01-04T09:42:57+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=12
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001719s ]
+
+[ 2016-01-04T09:42:57+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002617s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001497s ]
+
+[ 2016-01-04T09:42:57+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001716s ]
+
+[ 2016-01-04T09:42:58+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003805s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001255s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001465s ]
+
+[ 2016-01-04T09:42:58+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002842s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003418s ]
+
+[ 2016-01-04T09:42:59+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002490s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001560s ]
+
+[ 2016-01-04T09:42:59+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005378s ]
+
+[ 2016-01-04T09:43:06+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001564s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001776s ]
+
+[ 2016-01-04T09:43:06+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001671s ]
+
+[ 2016-01-04T09:43:07+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002849s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001288s ]
+
+[ 2016-01-04T09:43:07+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001913s ]
+
+[ 2016-01-04T09:43:07+08:00 ] 127.0.0.1 /index.php/Home/Shop/decrementNum.html?goods_id=19&after_num=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001805s ]
+
+[ 2016-01-04T09:52:33+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001767s ]
+
+[ 2016-01-04T09:52:34+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001569s ]
+
+[ 2016-01-04T09:52:35+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009626s ]
+
+[ 2016-01-04T09:52:35+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001467s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001656s ]
+
+[ 2016-01-04T09:52:36+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001472s ]
+
+[ 2016-01-04T09:52:36+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001535s ]
+
+[ 2016-01-04T09:52:37+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002476s ]
+
+[ 2016-01-04T09:52:37+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002746s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001685s ]
+
+[ 2016-01-04T09:52:37+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001677s ]
+
+[ 2016-01-04T09:52:39+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001610s ]
+
+[ 2016-01-04T09:52:39+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001645s ]
+
+[ 2016-01-04T09:52:40+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-01-04T09:52:40+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002493s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001627s ]
+
+[ 2016-01-04T09:52:41+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002816s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001493s ]
+
+[ 2016-01-04T09:52:41+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001567s ]
+
+[ 2016-01-04T09:52:41+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001633s ]
+
+[ 2016-01-04T09:52:42+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002407s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001750s ]
+
+[ 2016-01-04T09:52:43+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001585s ]
+
+[ 2016-01-04T09:52:47+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001965s ]
+
+[ 2016-01-04T09:52:47+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001625s ]
+
+[ 2016-01-04T09:52:47+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001711s ]
+
+[ 2016-01-04T09:52:47+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001637s ]
+
+[ 2016-01-04T09:52:48+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001896s ]
+
+[ 2016-01-04T09:52:48+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=32&after_num=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001650s ]
+
+[ 2016-01-04T09:54:42+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=19&after_num=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001929s ]
+
+[ 2016-01-04T09:54:58+08:00 ] 127.0.0.1 /index.php/Home/Shop/modifyNum.html?goods_id=26&after_num=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001836s ]
+
+[ 2016-01-04T10:55:02+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=21
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002850s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0138s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 21 LIMIT 1   [ RunTime:0.0122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001570s ]
+
+[ 2016-01-04T11:11:50+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=22
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003153s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0112s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 22 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002583s ]
+
+[ 2016-01-04T11:16:48+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006882s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0108s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001670s ]
+
+[ 2016-01-04T14:34:34+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002548s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0112s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001179s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2016-01-04T14:34:47+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=22
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002205s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0116s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 22 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001827s ]
+
+[ 2016-01-04T14:42:18+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003036s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0170s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 32 LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001594s ]
+
+[ 2016-01-04T15:13:22+08:00 ] 127.0.0.1 /index.php/Home/Shop/showorder.html
+ERR: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'order_number' at row 1
+
+[ 2016-01-04T15:14:12+08:00 ] 127.0.0.1 /index.php/Home/Shop/showorder.html
+ERR: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'order_number' at row 1
+
+[ 2016-01-04T15:26:38+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=29
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002843s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0120s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 29 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001867s ]
+
+[ 2016-01-04T15:32:09+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=21
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002406s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0112s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 21 LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001845s ]
+
+[ 2016-01-04T15:32:17+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart.html?goods_id=22
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002581s ]
+SQL: SHOW COLUMNS FROM `php41_goods` [ RunTime:0.0128s ]
+SQL: SELECT `goods_name`,`goods_shop_price` FROM `php41_goods` WHERE `goods_id` = 22 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001512s ]
+

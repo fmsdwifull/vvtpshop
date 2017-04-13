@@ -1,0 +1,58 @@
+[ 2015-12-30T09:27:37+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=vkn5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002884s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002363s ]
+
+[ 2015-12-30T09:35:58+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=mteh
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001679s ]
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/base.css
+ERR: 非法操作:style
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/common.css
+ERR: 非法操作:style
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/global.css
+ERR: 非法操作:style
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/header.css
+ERR: 非法操作:style
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/list.css
+ERR: 非法操作:style
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/style/footer.css
+ERR: 非法操作:style
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/header.js
+ERR: 非法操作:js
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/list.js
+ERR: 非法操作:js
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/header.js
+ERR: 非法操作:js
+
+[ 2015-12-30T10:23:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/list.js
+ERR: 非法操作:js
+
+[ 2015-12-30T10:27:07+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/list.js
+ERR: 非法操作:js
+
+[ 2015-12-30T10:27:08+08:00 ] 127.0.0.1 /index.php/Home/Goods/js/list.js
+ERR: 非法操作:js
+

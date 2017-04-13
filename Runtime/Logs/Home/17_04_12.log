@@ -1,0 +1,106 @@
+[ 2017-04-12T11:07:31+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T11:30:34+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T11:30:35+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T11:30:36+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T11:30:37+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T11:30:52+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T11:33:59+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T11:34:01+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T12:23:20+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T12:23:21+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T12:24:11+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T12:26:35+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T12:26:37+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T12:28:10+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T12:58:57+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T12:58:59+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T12:59:01+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T12:59:19+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/index
+ERR: 系统不支持:memcache
+
+[ 2017-04-12T13:17:00+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/User/checkCode.html?code=vdc4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_30i39rutvq8bgn1vcj5sssv6c0, O_RDWR) failed: Permission denied (13) /var/www/html/vvtpshop/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-04-12T13:17:06+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/User/checkCode.html?code=vdc4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_30i39rutvq8bgn1vcj5sssv6c0, O_RDWR) failed: Permission denied (13) /var/www/html/vvtpshop/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-04-12T13:17:16+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/User/checkCode.html?code=zytp
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_30i39rutvq8bgn1vcj5sssv6c0, O_RDWR) failed: Permission denied (13) /var/www/html/vvtpshop/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2017-04-12T13:18:31+08:00 ] 114.95.149.98 /vvtpshop/index.php/Home/User/checkCode.html?code=aufb
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_hngvghptncqpscntfob9m82he4, O_RDWR) failed: Permission denied (13) /var/www/html/vvtpshop/ThinkPHP/Common/functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+

@@ -1,0 +1,12 @@
+[ 2016-01-08T15:21:06+08:00 ] 127.0.0.1 /index.php/Home/Goods/showlist/cat_id/3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY goods_id desc' at line 1
+
+[ 2016-01-08T16:14:08+08:00 ] 127.0.0.1 /index.php/Home/%3Cpre%3Earray(2)%20%7B%20%20%5B0%5D%20=%3E%20string(3)%20%22pai%22%20%20%5B1%5D%20=%3E%20string(2)%20%22xu%22%7D%3C/pre%3EGoods/showlist/cat_id/3/pai/goods_shop_price/xu/asc
+ERR: 无法加载控制器:array(2) {  [0] => string(3) "pai"  [1] => string(2) "xu"}
+
+[ 2016-01-08T16:55:16+08:00 ] 127.0.0.1 /index.php/Home/Goods/showlist/cat_id/3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1583 Incorrect parameters in the call to native function 'ifnull'
+
+[ 2016-01-08T16:55:24+08:00 ] 127.0.0.1 /index.php/Home/Goods/showlist/cat_id/3
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1582 Incorrect parameter count in the call to native function 'isnull'
+

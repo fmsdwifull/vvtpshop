@@ -1,0 +1,131 @@
+[ 2015-12-29T10:47:36+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=7468
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001638s ]
+
+[ 2015-12-29T10:47:41+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=7468
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002501s ]
+
+[ 2015-12-29T10:47:41+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=7468
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001789s ]
+
+[ 2015-12-29T10:47:47+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=wjbb
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006961s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001871s ]
+
+[ 2015-12-29T10:53:18+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=cpmt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002634s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001829s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002021s ]
+
+[ 2015-12-29T11:17:19+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=r7me
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002416s ]
+
+[ 2015-12-29T11:20:43+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=jxzx
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002982s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001567s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001753s ]
+
+[ 2015-12-29T11:24:57+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=2vyy
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002030s ]
+
+[ 2015-12-29T11:24:58+08:00 ] 127.0.0.1 /index.php/Home/User/regist.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'add_time' doesn't have a default value
+
+[ 2015-12-29T11:27:33+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=lqrc
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001623s ]
+
+[ 2015-12-29T11:37:05+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=njqe
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003767s ]
+
+[ 2015-12-29T11:38:50+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=wmyl
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011759s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001721s ]
+
+[ 2015-12-29T14:55:07+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=dnyd
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001768s ]
+
+[ 2015-12-29T14:57:17+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=5eba
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002261s ]
+
+[ 2015-12-29T15:00:00+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=dinv
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001719s ]
+
+[ 2015-12-29T15:10:27+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=cgku
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011760s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008291s ]
+
+[ 2015-12-29T15:11:28+08:00 ] 127.0.0.1 /index.php/Home/User/checkCode.html?code=himt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003125s ]
+

@@ -1,0 +1,191 @@
+[ 2017-04-12T11:04:08+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Admin/checkCode.html?code=m28f
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-04-12T11:04:41+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:46+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:47+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:48+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:49+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:50+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:51+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:53+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:53+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:54+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:54+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:55+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:04:55+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:08+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/User/showlist
+ERR: 无法加载控制器:User
+
+[ 2017-04-12T11:05:11+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:13+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:14+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:14+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:15+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:20+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:21+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:38+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:39+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:39+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:40+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:40+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:41+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:41+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:41+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:41+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:42+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:42+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:42+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:42+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:42+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:43+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:43+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:44+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:44+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:45+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:45+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:46+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:05:46+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:06:34+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Attribute/getInfoByType.html?type_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0010s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `php41_attribute` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_attribute` WHERE `type_id` = 1  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-04-12T11:06:38+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Attribute/getInfoByType.html?type_id=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0008s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '3' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `php41_attribute` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_attribute` WHERE `type_id` = 4  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2017-04-12T11:06:41+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/showlist
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:06:42+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:06:45+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/dayin
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T11:06:46+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Order/look
+ERR: 无法加载控制器:Order
+
+[ 2017-04-12T15:14:18+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Admin/checkCode.html?code=mdh3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-04-12T15:15:02+08:00 ] 114.95.149.98 /vvtpshop/index.php/Back/Admin/checkCode.html?code=pvil
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+SQL: SHOW COLUMNS FROM `php41_manager` [ RunTime:0.0008s ]
+SQL: SELECT r.role_auth_ac FROM php41_manager m INNER JOIN php41_role r on m.mg_role_id=r.role_id  WHERE `mg_id` = '1' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+

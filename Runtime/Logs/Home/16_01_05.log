@@ -1,0 +1,2587 @@
+[ 2016-01-05T10:48:20+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002372s ]
+
+[ 2016-01-05T10:48:24+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003263s ]
+
+[ 2016-01-05T10:48:31+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002364s ]
+
+[ 2016-01-05T10:48:59+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003347s ]
+
+[ 2016-01-05T10:49:56+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002530s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0111s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('4','&lt;p&gt;通话质量&lt;span style=&quot;font-size: 20px; color: rgb(227, 108, 9);&quot;&gt;很好&lt;/span&gt;，veryok&lt;br/&gt;&lt;/p&gt;','32','8','1451962196') [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002136s ]
+
+[ 2016-01-05T10:51:21+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006979s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007985s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0220s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('4','<p>地方<span style=\"color: rgb(149, 55, 52);\">大幅</span>度飞<br/></p>','32','8','1451962281') [ RunTime:0.0041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004856s ]
+
+[ 2016-01-05T10:57:11+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001938s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0110s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('2','<p>是范德<span style=\"font-size: 20px;\">萨发的的<strong><span style=\"font-size: 20px; color: rgb(217, 150, 148);\">谁费</span></strong></span>的说法<br/></p>','32','8','1451962631') [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001903s ]
+
+[ 2016-01-05T11:13:32+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003105s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0116s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('3','是范德<span style=\"font-size: 12px; color: rgb(146, 205, 220);\">萨发顺丰的说</span>法的说法','32','8','1451963612') [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001813s ]
+
+[ 2016-01-05T11:13:51+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002717s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0115s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('3','<p>爽肤水放松放松发送到<br/></p>','32','8','1451963631') [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001932s ]
+
+[ 2016-01-05T11:20:22+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002582s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0109s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('1','<p>是范德萨发顺丰的说法<br/></p>','32','8','1451964022') [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001642s ]
+
+[ 2016-01-05T11:27:30+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002429s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0125s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('4','<p>师傅师傅师傅<br/></p>','32','8','1451964450') [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_comment` WHERE `cmt_id` = 7 LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001695s ]
+
+[ 2016-01-05T11:29:26+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003089s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0094s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('2','<p>爽肤<span style=\"font-size: 20px; color: rgb(255, 0, 0);\">水答复</span>水电费<br/></p>','32','8','1451964566') [ RunTime:0.0005s ]
+SQL: SELECT * FROM `php41_comment` WHERE `cmt_id` = 8 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001838s ]
+
+[ 2016-01-05T11:31:43+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003361s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0112s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('1','<p>爽<span style=\"color: rgb(255, 0, 0);\">肤水佛挡杀佛</span><br/></p>','32','8','1451964703') [ RunTime:0.0011s ]
+SQL: SELECT `cmt_msg`,`cmt_star`,`user_id`,from_unixtime(add_time) time FROM `php41_comment` WHERE `cmt_id` = 9 LIMIT 1   [ RunTime:0.0029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002216s ]
+
+[ 2016-01-05T11:34:04+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002547s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0069s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0127s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('2','<p>爽肤水答复<br/></p>','32','8','1451964844') [ RunTime:0.0015s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE `cmt_id` = '10' LIMIT 1   [ RunTime:0.0025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001540s ]
+
+[ 2016-01-05T11:40:11+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003348s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0138s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('3','<p>算法订单爽肤水大丰收的地方说<br/></p>','32','8','1451965211') [ RunTime:0.0025s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE `cmt_id` = '11' LIMIT 1   [ RunTime:0.0027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001882s ]
+
+[ 2016-01-05T11:40:36+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002754s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0138s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('4','<p>爽肤水费撒范德萨范德萨发<br/></p>','32','8','1451965236') [ RunTime:0.0007s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE `cmt_id` = '12' LIMIT 1   [ RunTime:0.0034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001959s ]
+
+[ 2016-01-05T11:41:02+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003858s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0016s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0127s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('5','<p>阿范德萨发顺丰说房地产<br/></p>','32','8','1451965262') [ RunTime:0.0006s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE `cmt_id` = '13' LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002276s ]
+
+[ 2016-01-05T11:41:12+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003554s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0118s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('3','撒范德萨范德萨发','32','8','1451965272') [ RunTime:0.0006s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE `cmt_id` = '14' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001640s ]
+
+[ 2016-01-05T11:58:47+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002920s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0064s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0114s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id   [ RunTime:0.0111s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001857s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002020s ]
+
+[ 2016-01-05T12:01:18+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=%7BThink.get.goods_id%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002781s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0111s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '{Think.get.goods_id}'  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001674s ]
+
+[ 2016-01-05T12:01:32+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=%7BThink.get.goods_id%7D
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003639s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0116s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '{Think.get.goods_id}'  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002280s ]
+
+[ 2016-01-05T12:01:56+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003447s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0110s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002134s ]
+
+[ 2016-01-05T14:33:57+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002725s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0124s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001469s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001637s ]
+
+[ 2016-01-05T14:35:45+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026554s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0107s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002256s ]
+
+[ 2016-01-05T14:38:17+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011887s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0128s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001922s ]
+
+[ 2016-01-05T14:38:31+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002716s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0080s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0045s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0109s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001921s ]
+
+[ 2016-01-05T14:39:46+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002881s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0255s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0115s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001838s ]
+
+[ 2016-01-05T14:41:27+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002771s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0106s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001687s ]
+
+[ 2016-01-05T14:42:10+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001621s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002738s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0101s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001894s ]
+
+[ 2016-01-05T14:42:49+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002465s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0098s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0096s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002234s ]
+
+[ 2016-01-05T14:43:06+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003033s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0099s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001617s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001789s ]
+
+[ 2016-01-05T14:43:21+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005681s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0109s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '31'  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002221s ]
+
+[ 2016-01-05T14:43:46+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002610s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0165s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '31'  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001611s ]
+
+[ 2016-01-05T14:43:53+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001771s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002926s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0095s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('3','<p>sfsfdsdfds舒服舒服<br/></p>','31','9','1451976233') [ RunTime:0.0006s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE `cmt_id` = '15' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001194s ]
+
+[ 2016-01-05T14:44:05+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendComment.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002550s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0101s ]
+SQL: INSERT INTO `php41_comment` (`cmt_star`,`cmt_msg`,`goods_id`,`user_id`,`add_time`) VALUES ('1','下功夫vfcfbvfdfc','31','9','1451976245') [ RunTime:0.0007s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE `cmt_id` = '16' LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001651s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001844s ]
+
+[ 2016-01-05T14:44:16+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=31
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003169s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0140s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '31'  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001551s ]
+
+[ 2016-01-05T14:44:32+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002806s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0274s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0120s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001612s ]
+
+[ 2016-01-05T14:48:41+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006735s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0218s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0017s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0110s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001563s ]
+
+[ 2016-01-05T14:49:32+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003017s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0114s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002771s ]
+
+[ 2016-01-05T14:50:23+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003182s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0036s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0103s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001882s ]
+
+[ 2016-01-05T14:53:29+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002739s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0216s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001669s ]
+
+[ 2016-01-05T14:54:17+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003352s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0126s ]
+SQL: SELECT c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001619s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001861s ]
+
+[ 2016-01-05T14:56:50+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002695s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0096s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0115s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32'  [ RunTime:0.0159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001965s ]
+
+[ 2016-01-05T14:57:27+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002479s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0118s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001523s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001749s ]
+
+[ 2016-01-05T15:02:31+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004329s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0024s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0117s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001772s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001946s ]
+
+[ 2016-01-05T15:02:51+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002645s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0192s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0167s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002809s ]
+
+[ 2016-01-05T15:03:11+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002569s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0100s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001715s ]
+
+[ 2016-01-05T15:04:10+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002665s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0138s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0120s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001685s ]
+
+[ 2016-01-05T15:04:51+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003385s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0107s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001536s ]
+
+[ 2016-01-05T15:10:53+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005893s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0134s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0134s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001878s ]
+
+[ 2016-01-05T15:25:14+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003603s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0115s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001560s ]
+
+[ 2016-01-05T15:25:16+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006970s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003137s ]
+
+[ 2016-01-05T15:25:35+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003491s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0153s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0449s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002088s ]
+
+[ 2016-01-05T15:26:11+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002555s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001667s ]
+
+[ 2016-01-05T15:31:51+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003415s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0116s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001811s ]
+
+[ 2016-01-05T15:31:54+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002487s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0073s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001715s ]
+
+[ 2016-01-05T15:32:00+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002959s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0114s ]
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'add_time' doesn't have a default value
+
+[ 2016-01-05T15:32:12+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003538s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0116s ]
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'add_time' doesn't have a default value
+
+[ 2016-01-05T15:35:14+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002535s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0117s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003649s ]
+
+[ 2016-01-05T15:35:16+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002360s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001974s ]
+
+[ 2016-01-05T15:35:18+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002474s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0016s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0129s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('gggggggggggggggg','12','8','1451979318') [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003263s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003435s ]
+
+[ 2016-01-05T15:36:20+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002533s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0090s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001515s ]
+
+[ 2016-01-05T15:36:21+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002118s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0205s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001908s ]
+
+[ 2016-01-05T15:36:24+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002819s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0154s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0146s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('hhhhhhhhhhhhhh','12','8','1451979384') [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002579s ]
+
+[ 2016-01-05T15:36:31+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002754s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0203s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0107s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('hhhhhhhhhhhhhh','12','8','1451979390') [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001940s ]
+
+[ 2016-01-05T15:37:54+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002517s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0106s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001870s ]
+
+[ 2016-01-05T15:37:56+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002888s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0153s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001710s ]
+
+[ 2016-01-05T15:38:03+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002339s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0138s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('的高度郭德纲水电费四规范的','11','8','1451979483') [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001570s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001740s ]
+
+[ 2016-01-05T15:38:37+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001951s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003156s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0158s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001635s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001803s ]
+
+[ 2016-01-05T15:38:39+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002515s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001581s ]
+
+[ 2016-01-05T15:38:42+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003707s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0112s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('撒范德萨范德萨发','13','8','1451979522') [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001658s ]
+
+[ 2016-01-05T15:40:54+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003073s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0121s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001639s ]
+
+[ 2016-01-05T15:40:56+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002832s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001692s ]
+
+[ 2016-01-05T15:41:00+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003367s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0123s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('的股份大股东飞个梵蒂冈的','11','8','1451979660') [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001630s ]
+
+[ 2016-01-05T15:54:14+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004695s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0103s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0035s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001799s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001987s ]
+
+[ 2016-01-05T15:54:16+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003062s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0077s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0057s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001396s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001544s ]
+
+[ 2016-01-05T15:54:20+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002960s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0109s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('师傅师傅师傅','11','8','1451980460') [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001681s ]
+
+[ 2016-01-05T15:57:20+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002548s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0200s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001737s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001915s ]
+
+[ 2016-01-05T15:59:57+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002552s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0118s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001648s ]
+
+[ 2016-01-05T16:01:13+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003801s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0240s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001798s ]
+
+[ 2016-01-05T16:01:41+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001761s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0175s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0127s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001840s ]
+
+[ 2016-01-05T16:02:15+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004328s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0249s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0064s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0130s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004779s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005044s ]
+
+[ 2016-01-05T16:09:00+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002784s ]
+
+[ 2016-01-05T16:09:25+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002228s ]
+
+[ 2016-01-05T16:09:43+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002457s ]
+
+[ 2016-01-05T16:10:32+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002905s ]
+
+[ 2016-01-05T16:10:59+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002517s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0128s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003767s ]
+
+[ 2016-01-05T16:11:07+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009664s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002609s ]
+
+[ 2016-01-05T16:11:11+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004961s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0275s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('啊是范德萨发顺丰的说法说','12','8','1451981471') [ RunTime:0.0156s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION shop0911.from_unix_time does not exist
+
+[ 2016-01-05T16:12:41+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003149s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0157s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001525s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001790s ]
+
+[ 2016-01-05T16:12:43+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002499s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002050s ]
+
+[ 2016-01-05T16:12:48+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002385s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0125s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('虽然个梵蒂冈的v规范','12','8','1451981568') [ RunTime:0.0007s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '9' LIMIT 1   [ RunTime:0.0015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001678s ]
+
+[ 2016-01-05T16:13:15+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002629s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0117s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001988s ]
+
+[ 2016-01-05T16:13:17+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002892s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001728s ]
+
+[ 2016-01-05T16:13:20+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002586s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0113s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('是范德萨发顺丰','11','8','1451981600') [ RunTime:0.0006s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '10' LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002482s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002657s ]
+
+[ 2016-01-05T16:13:49+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005399s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0114s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001835s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002032s ]
+
+[ 2016-01-05T16:13:50+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003115s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003225s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003480s ]
+
+[ 2016-01-05T16:13:53+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003554s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0052s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0124s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('设法爽肤水','12','8','1451981632') [ RunTime:0.0007s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '11' LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001412s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001573s ]
+
+[ 2016-01-05T16:15:34+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002994s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0118s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002008s ]
+
+[ 2016-01-05T16:15:36+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002549s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0017s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001973s ]
+
+[ 2016-01-05T16:15:38+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002465s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0113s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('水电费的说法','13','8','1451981738') [ RunTime:0.0007s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '12' LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001662s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001828s ]
+
+[ 2016-01-05T16:15:55+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001618s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0039s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003910s ]
+
+[ 2016-01-05T16:15:58+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002218s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0111s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('算法订单爽肤水','12','8','1451981758') [ RunTime:0.0006s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '13' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001907s ]
+
+[ 2016-01-05T16:16:00+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002799s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001871s ]
+
+[ 2016-01-05T16:16:03+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003043s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0027s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0116s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('阿瓦的味道','12','8','1451981763') [ RunTime:0.0009s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '14' LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001825s ]
+
+[ 2016-01-05T16:16:04+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002648s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0035s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0027s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002030s ]
+
+[ 2016-01-05T16:16:07+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003098s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0184s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0109s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0122s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('阿达的','12','8','1451981767') [ RunTime:0.0024s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '15' LIMIT 1   [ RunTime:0.0093s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001885s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002086s ]
+
+[ 2016-01-05T16:16:09+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002458s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001798s ]
+
+[ 2016-01-05T16:16:11+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003688s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0100s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('设法爽肤水','12','8','1451981771') [ RunTime:0.0007s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '16' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002124s ]
+
+[ 2016-01-05T16:16:13+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003312s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0047s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0068s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003221s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003401s ]
+
+[ 2016-01-05T16:16:16+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004362s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0120s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('的股份大概','12','8','1451981776') [ RunTime:0.0012s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '17' LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001919s ]
+
+[ 2016-01-05T16:17:25+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003585s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0109s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001636s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001964s ]
+
+[ 2016-01-05T16:17:27+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002577s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0024s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001682s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001852s ]
+
+[ 2016-01-05T16:17:29+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0142s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('佛挡杀佛','13','8','1451981849') [ RunTime:0.0072s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '18' LIMIT 1   [ RunTime:0.0029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003807s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004206s ]
+
+[ 2016-01-05T16:17:31+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002393s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001633s ]
+
+[ 2016-01-05T16:17:33+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003472s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0095s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('收费的第三方','13','8','1451981853') [ RunTime:0.0007s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '19' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001741s ]
+
+[ 2016-01-05T16:17:35+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002879s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0039s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0020s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001639s ]
+
+[ 2016-01-05T16:17:37+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004137s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0102s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('沙发的说法','13','8','1451981857') [ RunTime:0.0006s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '20' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001605s ]
+
+[ 2016-01-05T16:17:42+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002759s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001842s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002022s ]
+
+[ 2016-01-05T16:17:44+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004539s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0152s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0021s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0114s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('舒服舒服','13','8','1451981864') [ RunTime:0.0005s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '21' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001571s ]
+
+[ 2016-01-05T16:17:56+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008354s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0151s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001684s ]
+
+[ 2016-01-05T16:22:35+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003622s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0117s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0017s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001863s ]
+
+[ 2016-01-05T17:02:05+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006418s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0160s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0128s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2016-01-05T17:02:27+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004148s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0151s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0071s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0235s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002163s ]
+
+[ 2016-01-05T17:03:23+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004048s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0235s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0162s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0117s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002622s ]
+
+[ 2016-01-05T17:04:07+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003697s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0112s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0113s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001756s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001935s ]
+
+[ 2016-01-05T17:04:24+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002281s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0110s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0116s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001941s ]
+
+[ 2016-01-05T17:04:29+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002700s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002850s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003017s ]
+
+[ 2016-01-05T17:04:40+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002672s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0016s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0135s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0046s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0125s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001673s ]
+
+[ 2016-01-05T17:04:42+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002445s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002534s ]
+
+[ 2016-01-05T17:04:47+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002857s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0236s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0164s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('sksl顺路快递类似的卡洛斯的','13','9','1451984687') [ RunTime:0.0008s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '22' LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001608s ]
+
+[ 2016-01-05T17:05:43+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003240s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0128s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0153s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003017s ]
+
+[ 2016-01-05T17:05:46+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003777s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0029s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001719s ]
+
+[ 2016-01-05T17:05:49+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002467s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0117s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('谁发的啥地方说费','13','9','1451984749') [ RunTime:0.0012s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '23' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002010s ]
+
+[ 2016-01-05T17:07:55+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004752s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0139s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0145s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001875s ]
+
+[ 2016-01-05T17:07:57+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002918s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002415s ]
+
+[ 2016-01-05T17:08:00+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003009s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0119s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('收费的第三方','13','9','1451984880') [ RunTime:0.0009s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '24' LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002057s ]
+
+[ 2016-01-05T17:08:57+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002832s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0111s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0103s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002167s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002480s ]
+
+[ 2016-01-05T17:08:59+08:00 ] 127.0.0.1 /index.php/Home/User/isLogin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002437s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002493s ]
+
+[ 2016-01-05T17:09:03+08:00 ] 127.0.0.1 /index.php/Home/Comment/sendBack
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002607s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0147s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0105s ]
+SQL: INSERT INTO `php41_comment_back` (`back_msg`,`cmt_id`,`user_id`,`add_time`) VALUES ('爽肤水发的','13','9','1451984943') [ RunTime:0.0007s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `back_id` = '25' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001940s ]
+
+[ 2016-01-05T17:10:05+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003107s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0128s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0179s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0027s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002529s ]
+
+[ 2016-01-05T17:14:13+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002530s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0133s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0120s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001798s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001985s ]
+
+[ 2016-01-05T17:27:56+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004153s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0019s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0303s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0110s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002237s ]
+
+[ 2016-01-05T17:28:50+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004131s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0249s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0119s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0108s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
+[ 2016-01-05T17:29:59+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003322s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0155s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0151s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001967s ]
+
+[ 2016-01-05T17:30:29+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002751s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0137s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0153s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001920s ]
+
+[ 2016-01-05T17:31:13+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002765s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0103s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0090s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001639s ]
+
+[ 2016-01-05T17:31:48+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=33
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003538s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0139s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0118s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '33' ORDER BY cmt_id desc  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0096s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('')  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001807s ]
+
+[ 2016-01-05T17:32:22+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=33
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002340s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0015s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0125s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '33' ORDER BY cmt_id desc  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0223s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('')  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001847s ]
+
+[ 2016-01-05T17:32:43+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=33
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005275s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0134s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '33' ORDER BY cmt_id desc  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0115s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('')  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001890s ]
+
+[ 2016-01-05T17:35:02+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=33
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002506s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0156s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '33' ORDER BY cmt_id desc  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0197s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('')  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002087s ]
+
+[ 2016-01-05T17:35:50+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004438s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0100s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0114s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001798s ]
+
+[ 2016-01-05T17:39:49+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003493s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0113s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0174s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001704s ]
+
+[ 2016-01-05T17:41:25+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002946s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0150s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0156s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002605s ]
+
+[ 2016-01-05T17:41:30+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002794s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0224s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0141s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0130s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001777s ]
+
+[ 2016-01-05T17:42:10+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006012s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0045s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0178s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0184s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0023s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001741s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001993s ]
+
+[ 2016-01-05T17:42:11+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022843s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0024s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0117s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0380s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003337s ]
+
+[ 2016-01-05T17:42:18+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002455s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0154s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0102s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001800s ]
+
+[ 2016-01-05T17:42:30+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003109s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0194s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0113s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0047s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0104s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001694s ]
+
+[ 2016-01-05T17:45:09+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002723s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0025s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0146s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0133s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002562s ]
+
+[ 2016-01-05T17:45:10+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007754s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0138s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0154s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0131s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002893s ]
+
+[ 2016-01-05T17:45:16+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002849s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0191s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0154s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0103s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0103s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001798s ]
+
+[ 2016-01-05T17:45:41+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003050s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0132s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0129s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001798s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001993s ]
+
+[ 2016-01-05T17:46:02+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003515s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0118s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0142s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002863s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003070s ]
+
+[ 2016-01-05T17:46:31+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001782s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004539s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0170s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0126s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0111s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001766s ]
+
+[ 2016-01-05T17:48:06+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005949s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0013s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0124s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0121s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0021s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002218s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002418s ]
+
+[ 2016-01-05T17:48:52+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004322s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0219s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0130s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001824s ]
+
+[ 2016-01-05T17:50:13+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003086s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0011s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0120s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0114s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002281s ]
+
+[ 2016-01-05T17:51:00+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004781s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0120s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc  [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0109s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11','10','9','8','7','6','5','4','3','2','1')  [ RunTime:0.0015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001867s ]
+
+[ 2016-01-05T17:54:05+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003728s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0170s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 0,4   [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0128s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11')  [ RunTime:0.0014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002459s ]
+
+[ 2016-01-05T17:54:06+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0125s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 0,4   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0122s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11')  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001719s ]
+
+[ 2016-01-05T17:54:13+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002012s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003171s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0027s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0103s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 4,4   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0141s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('10','9','8','7')  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001780s ]
+
+[ 2016-01-05T17:54:20+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002507s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0126s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 8,4   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0138s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('6','5','4','3')  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001653s ]
+
+[ 2016-01-05T17:54:22+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003364s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0112s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 12,4   [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0141s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('2','1')  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001638s ]
+
+[ 2016-01-05T17:54:23+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002782s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0098s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 8,4   [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0096s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('6','5','4','3')  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001731s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001899s ]
+
+[ 2016-01-05T17:54:24+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002614s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0107s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 4,4   [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0104s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('10','9','8','7')  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001199s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001367s ]
+
+[ 2016-01-05T17:54:26+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002779s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0117s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 0,4   [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0113s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11')  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001608s ]
+
+[ 2016-01-05T18:00:11+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002932s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0090s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 8,4   [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0110s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('6','5','4','3')  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002182s ]
+
+[ 2016-01-05T18:00:16+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002655s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0122s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 12,4   [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0094s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('2','1')  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001789s ]
+
+[ 2016-01-05T18:00:17+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003987s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0111s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 0,4   [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0116s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('14','13','12','11')  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001528s ]
+
+[ 2016-01-05T18:00:21+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004018s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0012s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0010s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0128s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 4,4   [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0136s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('10','9','8','7')  [ RunTime:0.0015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001642s ]
+
+[ 2016-01-05T18:00:25+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002395s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0008s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0172s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 8,4   [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0277s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('6','5','4','3')  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003643s ]
+
+[ 2016-01-05T18:08:13+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003325s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0009s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0131s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 12,4   [ RunTime:0.0035s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0169s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('2','1')  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001813s ]
+
+[ 2016-01-05T18:08:14+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003395s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0006s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0116s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 8,4   [ RunTime:0.0031s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0108s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('6','5','4','3')  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001634s ]
+
+[ 2016-01-05T18:08:15+08:00 ] 127.0.0.1 /index.php/Home/Comment/showlist?goods_id=32&page=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005241s ]
+SQL: SHOW COLUMNS FROM `php41_category` [ RunTime:0.0181s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 0  [ RunTime:0.0018s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 1  [ RunTime:0.0007s ]
+SQL: SELECT * FROM `php41_category` WHERE `cat_level` = 2  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `php41_comment` [ RunTime:0.0140s ]
+SQL: SELECT c.cmt_id,c.cmt_msg,c.cmt_star,from_unixtime(c.add_time) time,u.user_name FROM php41_comment c INNER JOIN php41_user u on c.user_id=u.user_id  WHERE c.goods_id = '32' ORDER BY cmt_id desc LIMIT 12,4   [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `php41_comment_back` [ RunTime:0.0134s ]
+SQL: SELECT b.back_id,b.back_msg,b.cmt_id,from_unixtime(b.add_time) time,u.user_name FROM php41_comment_back b INNER JOIN php41_user u on b.user_id=u.user_id  WHERE `cmt_id` IN ('2','1')  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001713s ]
+

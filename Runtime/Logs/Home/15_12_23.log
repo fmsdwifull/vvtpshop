@@ -1,0 +1,1040 @@
+[ 2015-12-23T09:16:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019798s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000526s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000748s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.140708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.140950s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012761s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015553s ]
+
+[ 2015-12-23T14:54:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001658s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000578s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000765s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001965s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002454s ]
+
+[ 2015-12-23T14:55:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.013703s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.014054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108373s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001730s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001920s ]
+
+[ 2015-12-23T14:56:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001864s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000524s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000722s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082911s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001971s ]
+
+[ 2015-12-23T14:56:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002050s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000671s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000876s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.166080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.166264s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003259s ]
+
+[ 2015-12-23T14:57:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002035s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000583s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000787s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086614s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086824s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001900s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002086s ]
+
+[ 2015-12-23T15:01:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002087s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000569s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000830s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.095231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.095671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011602s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002797s ]
+
+[ 2015-12-23T15:02:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002859s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000516s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000747s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124659s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124866s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001530s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002378s ]
+
+[ 2015-12-23T15:29:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002204s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000553s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000770s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.154945s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.155145s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002458s ]
+
+[ 2015-12-23T15:30:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002428s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001022s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001402s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.133317s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133525s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002955s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002843s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003126s ]
+
+[ 2015-12-23T15:30:06+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001666s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000755s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000939s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.092261s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001259s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001928s ]
+
+[ 2015-12-23T15:30:09+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002291s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000530s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000712s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102654s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002051s ]
+
+[ 2015-12-23T15:30:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001894s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000729s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000949s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.087557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.087862s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001933s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002118s ]
+
+[ 2015-12-23T15:30:25+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002099s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000581s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000812s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.105921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001769s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004265s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004472s ]
+
+[ 2015-12-23T15:30:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001646s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001664s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000719s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001017s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084893s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.085112s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001958s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002156s ]
+
+[ 2015-12-23T15:30:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002759s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000661s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000951s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.072277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.072482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001191s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002276s ]
+
+[ 2015-12-23T15:30:59+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001817s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000831s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.091634s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.018276s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018454s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021958s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022161s ]
+
+[ 2015-12-23T15:31:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000526s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000699s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.106399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002242s ]
+
+[ 2015-12-23T15:31:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003184s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001880s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.104532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.104729s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001343s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005431s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005624s ]
+
+[ 2015-12-23T15:32:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003900s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000687s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000891s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.204916s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.205440s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004005s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004235s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002977s ]
+
+[ 2015-12-23T15:32:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002079s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000577s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000809s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.101230s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.101434s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001825s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002224s ]
+
+[ 2015-12-23T15:32:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017601s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000525s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000722s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109115s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109325s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001034s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002330s ]
+
+[ 2015-12-23T15:32:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001830s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000575s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000786s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.160114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.160314s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001372s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001897s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002099s ]
+
+[ 2015-12-23T15:32:41+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000560s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000755s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.097780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003900s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004264s ]
+
+[ 2015-12-23T15:32:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001801s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000984s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001215s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.098304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098606s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003715s ]
+
+[ 2015-12-23T15:33:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002137s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000568s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000753s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.102429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.102632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001970s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002359s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002119s ]
+
+[ 2015-12-23T15:49:13+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002393s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000334s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000473s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.078400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.078607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000948s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002709s ]
+
+[ 2015-12-23T15:52:06+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001715s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000608s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000831s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110815s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001306s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001463s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002105s ]
+
+[ 2015-12-23T15:55:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001730s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000834s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.084263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.084491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001955s ]
+
+[ 2015-12-23T15:55:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.024156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.024477s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000569s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000748s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.128907s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129115s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002473s ]
+
+[ 2015-12-23T16:00:14+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001679s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000514s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000825s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.121740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001378s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002713s ]
+
+[ 2015-12-23T16:00:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002394s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000641s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000858s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.098730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098930s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002825s ]
+
+[ 2015-12-23T16:11:07+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002247s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000737s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000951s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.142461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.142682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002759s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002970s ]
+
+[ 2015-12-23T16:11:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002518s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000491s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000683s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.092210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.092411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001573s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002245s ]
+
+[ 2015-12-23T16:13:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002558s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000583s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000777s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.136500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.136770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002602s ]
+
+[ 2015-12-23T16:24:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001706s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000584s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000774s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099543s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001646s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001818s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002117s ]
+
+[ 2015-12-23T16:26:51+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002505s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000543s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000756s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.086260s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086455s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001904s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003254s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003560s ]
+
+[ 2015-12-23T16:26:54+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001588s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.093886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.094079s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001629s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001823s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002663s ]
+
+[ 2015-12-23T16:26:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007375s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000547s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000776s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.115674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.115878s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002690s ]
+
+[ 2015-12-23T16:29:02+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001891s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000721s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000973s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.117036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.117243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001373s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001899s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002073s ]
+
+[ 2015-12-23T16:29:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001888s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000547s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000724s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.090869s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091284s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002609s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002976s ]
+
+[ 2015-12-23T16:29:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001518s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002730s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000736s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000967s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.161429s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.161629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002166s ]
+
+[ 2015-12-23T16:51:11+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002109s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000549s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000738s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109550s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109819s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001548s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003704s ]
+
+[ 2015-12-23T17:00:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004803s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000619s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002013s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.114605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001856s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015148s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015391s ]
+
+[ 2015-12-23T17:00:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001592s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000856s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.088312s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.088574s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.021902s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.022119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001758s ]
+
+[ 2015-12-23T17:00:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002425s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.010478s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.010688s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110788s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001624s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011742s ]
+
+[ 2015-12-23T17:01:10+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009995s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000984s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002297s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.106227s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001894s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002135s ]
+
+[ 2015-12-23T17:02:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001030s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001537s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004564s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004810s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.075619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002516s ]
+
+[ 2015-12-23T17:28:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001847s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000559s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000749s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110298s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001731s ]
+
+[ 2015-12-23T17:29:15+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000502s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000701s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074814s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075043s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001771s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001970s ]
+
+[ 2015-12-23T17:35:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007092s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000650s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001069s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.095292s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.095528s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.030491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.030840s ]
+
+[ 2015-12-23T17:37:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002851s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000520s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000733s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.100495s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100751s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007886s ]
+

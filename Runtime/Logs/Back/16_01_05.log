@@ -1,0 +1,8 @@
+[ 2016-01-05T09:45:20+08:00 ] 127.0.0.1 /index.php/Back/Admin/checkCode.html?code=mbvq
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003406s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001830s ]
+
